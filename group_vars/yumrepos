@@ -1,9 +1,9 @@
 ---
 
-yumrepo_fqdn: deployserver-george
+yumrepo_fqdn: deployserver-dai
 yumrepo_path: /opt/yumrepo
 
-cci_username: linuxdojo-training
-cci_token: 92dc1185d521273ca749a9416531b5f856e41399
+cci_username: trantdai
+cci_token: b0c58098fd86283d77832e0c837859c6d994179f
 cci_project: pingtest
 cci_branch: master
