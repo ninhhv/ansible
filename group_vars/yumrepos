@@ -5,5 +5,5 @@ yumrepo_path: /opt/yumrepo
 
 cci_username: trantdai
 cci_token: b0c58098fd86283d77832e0c837859c6d994179f
-cci_project: pingtest
+cci_project: ping-test
 cci_branch: master
